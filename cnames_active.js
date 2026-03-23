@@ -1097,6 +1097,7 @@ var cnames_active = {
   "mahdyar": "mahdyar.github.io/mahdyar.js.org",
   "mahmoud": "mahmoud-sagharjoughi.github.io/mahmoud",
   "mailgo": "mailgo.netlify.com", // noCF
+  "mailgic" : "mailgic.netlify.com",
   "majestic": "moityjs.github.io/majestic",
   "maker": "microsoft.github.io/maker.js",
   "makes": "makesjs.github.io",
